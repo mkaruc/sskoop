@@ -309,8 +309,8 @@ font-size:14px !important;
 .Contact-Us input[type="text"], input[type="search"],.Contact-Us input[type="password"],.Contact-Us input[type="email"],.Contact-Us input[type="url"],.Contact-Us input[type="tel"],.Contact-Us select
 {
 border-radius:4px 4px 4px 4px;
-border:solid #ED7272;
-border:solid rgba(237,114,114,1);
+border:solid rgb(0, 175, 88);
+border:solid rgb(6, 211, 109);
 border-width:1px 1px 1px 1px;
 box-shadow:none;
 font-size:14px;
@@ -329,8 +329,8 @@ height:40px !important;
 .Contact-Us input[type="text"]:focus, input[type="search"]:focus,.Contact-Us input[type="password"]:focus,.Contact-Us input[type="url"]:focus,.Contact-Us input[type="email"]:focus,.Contact-Us input[type="tel"]:focus
 {
 border-radius:4px 4px 4px 4px;
-border:solid #ED7272;
-border:solid rgba(237,114,114,1);
+border:solid rgb(0,147,74);
+border:solid rgb(0,147,74);
 border-width:1px 1px 1px 1px;
 box-shadow:1px 0px 10px rgba(191,222,246,1);
 font-size:14px;
@@ -344,8 +344,8 @@ text-decoration:none;
 .Contact-Us textarea, .Contact-Us textarea.form-control
 {
 border-radius:4px 4px 4px 4px;
-border:solid #ED7272;
-border:solid rgba(237,114,114,1);
+border:solid rgb(0,147,74);
+border:solid rgb(0,147,74);
 border-width:1px 1px 1px 1px;
 box-shadow:none;
 font-size:14px;
@@ -363,8 +363,8 @@ width:100%;
 .Contact-Us textarea:focus, .Contact-Us textarea.form-control:focus
 {
 border-radius:4px 4px 4px 4px;
-border:solid #ED7272;
-border:solid rgba(237,114,114,1);
+border:solid rgb(0,147,74);
+border:solid rgb(0,147,74);
 border-width:1px 1px 1px 1px;
 box-shadow:1px 0px 10px rgba(191,222,246,1);
 font-size:14px;
@@ -499,8 +499,8 @@ box-shadow:none;
 }
 .Contact-Us .btn-default
 {
-background-color:#D54353;
-background:rgba(213,67,83,1);
+background-color:rgb(0,147,74);
+background:rgb(0,147,74);
 background-clip:padding-box;border-radius:6px 6px 6px 6px;
 border:solid #CCCCCC;
 border:solid rgba(204,204,204,1);
@@ -519,8 +519,8 @@ border:solid #ADADAD;
 border:solid rgba(173,173,173,1);
 border-width:0px 0px 0px 0px;
 box-shadow:none;
-background-color:#B62E3D;
-background:rgba(182,46,61,1);
+background-color:rgb(0,147,74);
+background:rgb(0,147,74);
 background-clip:padding-box;box-sizing:inherit;
 clear:none;
 font-size:14px;
@@ -2489,8 +2489,8 @@ border:solid transparent;
 border:solid rgba(255,255,255,0);
 border-width:0px 0px 0px 0px;
 box-shadow:none;
-background-color:#D54351;
-background:rgba(213,67,81,0.8);
+background-color:rgb(0,147,74);
+background:rgb(0,147,74);
 background-clip:padding-box;margin-top:50px;
 margin-left:50px;
 margin-right:50px;
@@ -2844,13 +2844,13 @@ text-transform:none;
 {
 background-color:#F3F3F3;
 background:rgba(243,243,243,1);
-background-clip:padding-box;color:#D33143;
+background-clip:padding-box;color:rgb(0,147,74);
 border-color:transparent;
 }
 .Services .btn-info:hover 
 {
-background-color:#D33143;
-background:rgba(211,49,67,1);
+background-color:rgb(0,147,74);
+background:rgb(0,147,74);
 background-clip:padding-box;color:#FFFFFF;
 border-color:transparent;
 }
@@ -4963,16 +4963,16 @@ margin-left:3px;
 .About-Us #ttr_menu .navbar-toggle
 {
 border-radius:0px 0px 0px 0px;
-border:solid #C83142;
-border:solid rgba(200,49,66,1);
+border:solid rgb(0,147,74);
+border:solid rgb(0,147,74);
 border-width:1px 1px 1px 1px;
 box-shadow:none;
 
 }
 .About-Us nav#ttr_menu .icon-bar
 {
-background-color:#C83142;
-background:rgba(200,49,66,1);
+background-color:rgb(0,147,74);
+background:rgb(0,147,74);
 background-clip:padding-box;height:2px;
 
 }
@@ -5138,7 +5138,7 @@ display:none;
 }
  .required:first-child:after 
 {
-color:red;
+color:rgb(0,147,74);
 content: '*';
 display: inline;
 }
@@ -6400,14 +6400,14 @@ border:solid transparent;
 border:solid rgba(0,0,0,0);
 border-width:0px 0px 0px 0px;
 box-shadow:none;
-color:rgba(213,67,83,1);
+color:rgb(0,147,74);
 }
  .ttr_menu_items.nav  li:hover ul.child li a:hover
 {
  font-size:14px;
 font-family:"Open Sans";font-weight:600;
 font-style:normal;
-color:#D54353;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -6425,7 +6425,7 @@ box-shadow:none;
 font-size:14px;
 font-family:"Open Sans";font-weight:600;
 font-style:normal;
-color:#D54353;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -6615,7 +6615,7 @@ box-sizing:border-box;
 font-size:14px;
 font-family:"Open Sans","Times New Roman";font-weight:400;
 font-style:normal;
-color:#C83142;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -6646,7 +6646,7 @@ cursor: pointer;
 font-size:14px;
 font-family:"Open Sans","Times New Roman";font-weight:400;
 font-style:normal;
-color:#C83142;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -6782,7 +6782,7 @@ width:auto;
 }
  #Slide0
 {
-background:url(images/HomeDesktopSlide0.jpg);
+background:url(images/slide1.jpg);
 background-color:#FFFFFF;
 background-repeat:no-repeat;
 background-size:cover;
@@ -6791,11 +6791,11 @@ background-clip:padding-box;
 }
  #Slide1
 {
-background:url(images/HomeDesktopSlide1.jpg);
+background:url(images/slide2.jpg);
 background-color:#808080;
 background-repeat:no-repeat;
-background-size:auto auto;
-background-position:Left Top;
+background-size:cover;
+background-position: center center;
 background-clip:padding-box;
 }
  .ttr_slide
@@ -8859,7 +8859,7 @@ font-size:14px;
 font-family:"Arial";
 font-weight:400;
 font-style:normal;
-color:#D54353;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -8870,7 +8870,7 @@ font-size:14px;
 font-family:"Arial";
 font-weight:400;
 font-style:normal;
-color:#D54353;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -8881,7 +8881,7 @@ font-size:14px;
 font-family:"Arial";
 font-weight:400;
 font-style:normal;
-color:#D54353;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -9495,8 +9495,8 @@ overflow:visible;
 }
  .btn-primary
 {
-background-color:#D54353;
-background:rgba(213,67,83,1);
+background-color:rgb(0,147,74);
+background:rgb(0,147,74);
 background-clip:padding-box;color:#FFFFFF;
 border-color:transparent;
 }
@@ -10023,7 +10023,7 @@ box-sizing:border-box;
 font-size:14px;
 font-family:"Open Sans","Times New Roman";font-weight:400;
 font-style:normal;
-color:#C83142;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -10052,7 +10052,7 @@ cursor: pointer;
 font-size:14px;
 font-family:"Open Sans","Times New Roman";font-weight:400;
 font-style:normal;
-color:#C83142;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -11711,7 +11711,7 @@ height:50px;
 font-size:14px;
 font-family:"Open Sans";font-weight:600;
 font-style:normal;
-color:#C83142;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -11722,7 +11722,7 @@ text-transform:none;
 font-size:14px;
 font-family:"Open Sans";font-weight:600;
 font-style:normal;
-color:#C83142;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -11762,7 +11762,7 @@ line-height:50px;
 font-size:14px;
 font-family:"Open Sans";font-weight:600;
 font-style:normal;
-color:#C83142;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -11773,7 +11773,7 @@ text-transform:none;
 font-size:14px;
 font-family:"Open Sans";font-weight:600;
 font-style:normal;
-color:#C83142;
+color:rgb(0,147,74);
 text-shadow:none;
 text-align:left;
 text-decoration:none;
@@ -11991,16 +11991,16 @@ margin-left:3px;
  #ttr_menu .navbar-toggle
 {
 border-radius:1px 1px 1px 1px;
-border:solid #C83142;
-border:solid rgba(200,49,66,1);
+border:solid rgb(0,147,74);
+border:solid rgb(0,147,74);
 border-width:1px 1px 1px 1px;
 box-shadow:none;
 
 }
  nav#ttr_menu .icon-bar
 {
-background-color:#C83142;
-background:rgba(200,49,66,1);
+background-color:rgb(0,147,74);
+background:rgb(0,147,74);
 background-clip:padding-box;
 }
  #ttr_menu .navbar-toggle:hover, #ttr_menu .navbar-toggle:focus
@@ -12008,8 +12008,8 @@ background-clip:padding-box;
 background-color:transparent;
 background:rgba(255,255,255,0);
 background-clip:padding-box;border-radius:1px 1px 1px 1px;
-border:solid #C83142;
-border:solid rgba(200,49,66,1);
+border:solid rgb(0,147,74);
+border:solid rgb(0,147,74);
 border-width:1px 1px 1px 1px;
 box-shadow:none;
 

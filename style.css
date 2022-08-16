@@ -2472,7 +2472,7 @@ margin-top:0px;
 margin-left:0px;
 margin-right:0px;
 margin-bottom:0px;
-background:url(images/ServicesDesktophtml_row3.jpg);
+background:url(images/slide2.jpg);
 background-color:#FFFFFF;
 background-repeat:no-repeat;
 background-size:cover;
@@ -3987,7 +3987,7 @@ margin-top:0px;
 margin-left:0px;
 margin-right:0px;
 margin-bottom:0px;
-background:url(images/About-UsDesktophtml_row4.jpg);
+background:url(images/aboutus.jpg);
 background-color:#FFFFFF;
 background-repeat:no-repeat;
 background-size:cover;
@@ -6795,7 +6795,7 @@ background:url(images/slide2.jpg);
 background-color:#808080;
 background-repeat:no-repeat;
 background-size:cover;
-background-position: center center;
+background-position: left center;
 background-clip:padding-box;
 }
  .ttr_slide
@@ -10906,7 +10906,7 @@ max-width:100%;
 }
  #Slide0
 {
-background:url(images/HomeTabletSlide0.jpg);
+background:url(images/slide1.jpg);
 background-color:#FFFFFF;
 background-repeat:no-repeat;
 background-size:cover;
